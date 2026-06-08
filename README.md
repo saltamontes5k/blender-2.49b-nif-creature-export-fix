@@ -12,4 +12,6 @@ Backup original export_nif.py
 
 Download modified version and overwrite.
 
-Particles still don't work, iirc there was a civ4 script where it doess, might be an idea for a future update
+Particles still don't work, iirc there was a civ4 script where it doess, might be an idea for a future update.
+
+All credit to the Nifskope team, this is just a small patch for a very old tool for an even older gamee
